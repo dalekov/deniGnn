@@ -12,7 +12,7 @@ I'm a passionate developer on a mission to grow and make an impact through code!
 ## 🛠️ Technologies & Tools:
 - **Languages**: Python 🐍
 - **Tools**: Git & GitHub 🛠️, PyCharm, Visual Studio Code 🖥️
-- **Frameworks**: Want to learn Flask 🌐 and Django.
+- **Frameworks**: Want to learn Flask 🧪 and Django 🌿
 - **Game Development**: Turtle Graphics 🐢
   
 ## 🚀 Projects:
