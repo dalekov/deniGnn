@@ -5,7 +5,7 @@ I'm a passionate developer on a mission to grow and make an impact through code!
 ## 🔥 About Me:
 - 💻 Currently completing the **100 Days of Code** challenge with Angela Yu's course @ Udemy. I'm at **Day 30** and loving every minute of it! 🎯
 - 📚 Lifelong learner always seeking new opportunities to improve my coding abilities.
-- 🚀 I specialize in **Python** and love diving deep into error handling and other complex concepts.
+- 🚀 I specialize in **Python** and love diving deep into OOP, error handling, and other complex concepts.
 - 🌱 Exploring game development with **Turtle Graphics** and creating projects like **Pong** 🏓 and **Snake** 🐍.
 - 🛠️ Looking to build more cool projects and contribute to open-source.
 
@@ -21,7 +21,7 @@ I'm a passionate developer on a mission to grow and make an impact through code!
 
 ## 🌟 What I'm Working On:
 - **100 Days of Code**: I'm focused on completing the challenge and refining my skills with exciting projects and challenges.
-- **SoftUni Python Fundamentals Course**: Diving deep in core concepts, strengthening my foundation in Python
+- **SoftUni Python Fundamentals Course**: Diving deep in core concepts, strengthening my foundation in Python.
 
 ## 📫 Let's Connect:
 - LinkedIn: [https://www.linkedin.com/in/dalekov/](#)
