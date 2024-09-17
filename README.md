@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Denis Alekov] 🚀
+# Hi there! 👋 I'm Denis Alekov 🚀
 
 I'm a passionate developer on a mission to grow and make an impact through code! 💻 Since I started my programming journey, I've been honing my skills and exploring new challenges every day. I believe that with consistency and dedication, I'll achieve my goal of becoming a skilled developer! 💪
 
@@ -25,6 +25,6 @@ I'm a passionate developer on a mission to grow and make an impact through code!
 
 ## 📫 Let's Connect:
 - LinkedIn: [https://www.linkedin.com/in/dalekov/](#)
-- Email: [denis.alekov1@gmail.com]
+- Email: denis.alekov1@gmail.com
 
 Thanks for stopping by, and let's keep coding! 🚀👨‍💻👩‍💻
